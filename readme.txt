@@ -6,3 +6,4 @@ Stan początkowy automatu to jedna, środkowa, komurka z liczbą 1 (reprezentowa
 
 Kazdy kolejny poziom to nowy stan automatu.
 
+Pierwszy paramrtr programu to jedna z 256 zasad, a drugi to krok czasowy.
